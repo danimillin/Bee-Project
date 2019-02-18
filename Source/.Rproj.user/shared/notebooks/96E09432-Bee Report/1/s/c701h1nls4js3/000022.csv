@@ -1,0 +1,6 @@
+"0","#plotdata"
+"0","library(maptools)"
+"0","data(""wrld_simpl"")"
+"0","beedata2$decimallat<-as.numeric(as.character(beedata2$decimallat))"
+"0","beedata2$year<-as.numeric(as.character(beedata2$year))"
+"0","plot(wrld_simpl, xlim=c(-150, -50), ylim=c(30, 70), axes=T, col=""lightgrey"")"

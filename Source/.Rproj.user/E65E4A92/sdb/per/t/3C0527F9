@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1488307879448.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3C0527F9",
+    "lastKnownWriteTime" : 7953749933112386917,
+    "last_content_update" : 1488307879448,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "84025ECE",
+        "caption" : "beesclean",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=beesclean&cache_key=84025ECE",
+        "displayedObservations" : 675,
+        "environment" : "",
+        "object" : "beesclean",
+        "preview" : 0,
+        "totalObservations" : 675,
+        "variables" : 39
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

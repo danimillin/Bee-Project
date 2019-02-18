@@ -1,0 +1,2 @@
+"0","#plotting old bees"
+"0","plot(wrld_simpl, xlim=c(-150, -50), ylim=c(30,70), axes=T, col=""lightgrey"")"

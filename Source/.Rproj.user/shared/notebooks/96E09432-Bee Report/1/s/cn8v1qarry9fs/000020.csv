@@ -1,0 +1,2 @@
+"0","# we use the first file to create a RasterLayer"
+"0","plot(predictors_crop[[1]]) "

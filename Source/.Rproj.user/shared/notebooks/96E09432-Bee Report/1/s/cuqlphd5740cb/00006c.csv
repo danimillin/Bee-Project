@@ -1,0 +1,1 @@
+"0","plot (wrld_simpl, xlim=c(-180, -50), ylim=c(23,90), axes=T, col=""lightgrey"")"

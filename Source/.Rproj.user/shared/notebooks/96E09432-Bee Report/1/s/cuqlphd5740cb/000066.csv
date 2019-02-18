@@ -1,0 +1,5 @@
+"0","# now we repeat the sampling, but limit"
+"0","# the area of sampling using a spatial extent"
+"0","e <- extent(-150, -50, 30, 70)"
+"0","bg2 <- randomPoints(mask, 50, ext=e)"
+"0","plot(!is.na(mask), legend=FALSE)"

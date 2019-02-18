@@ -1,0 +1,2 @@
+"0","#investigate co-linearity: Are these predictors telling us the same thing? "
+"0","pairs (sdmdata [,2:5], cex=.25, fig=TRUE)"

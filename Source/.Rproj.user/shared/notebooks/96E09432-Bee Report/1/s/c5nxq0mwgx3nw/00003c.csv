@@ -1,0 +1,7 @@
+"0","beeloc<-bees[, 5:6]"
+"0","collabs<-c(""decimallat"", ""decimallong"", ""year"")"
+"0","#getting rid of gross columns"
+"0","beesclean<-filter(bees, V11 == ""1340373"")"
+"0","beedata<-beesclean[c(5:6, 10)]"
+"0","names(beedata)<-collabs"
+"0","head(beedata)"

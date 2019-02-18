@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1488307388538.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FB4CE458",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1488307388538,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5F9904B",
+        "caption" : "bees",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=bees&cache_key=5F9904B",
+        "displayedObservations" : 819,
+        "environment" : "",
+        "object" : "bees",
+        "preview" : 0,
+        "totalObservations" : 819,
+        "variables" : 39
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,3 @@
+"0","#with our model built we can now predict to the entire study extent: "
+"0","glm_pred<- predict (predictors_crop, m1)"
+"0","plot (glm_pred, col=rev(rainbow(50)), main=""GLM"")# This now plots the habitat suitability for this species "

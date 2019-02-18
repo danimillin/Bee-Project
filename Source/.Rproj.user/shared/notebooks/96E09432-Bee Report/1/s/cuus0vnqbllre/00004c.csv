@@ -1,0 +1,5 @@
+"0","#using raster math we can calculate the differences between the two maps "
+"0","diff_map<- glm_future-glm_pred"
+"2","Error in compareRaster(e1, e2, extent = FALSE, rowcol = FALSE, crs = TRUE,  : 
+  different resolution
+"

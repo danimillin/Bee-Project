@@ -1,0 +1,2 @@
+"0","# set up the plotting area"
+"0","plot(!is.na(mask), legend=FALSE)"

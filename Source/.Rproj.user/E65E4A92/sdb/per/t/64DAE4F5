@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1488308824210.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "64DAE4F5",
+    "lastKnownWriteTime" : 8389754659302220320,
+    "last_content_update" : 1488308824210,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B707ECD",
+        "caption" : "beedata2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=beedata2&cache_key=B707ECD",
+        "displayedObservations" : 248,
+        "environment" : "",
+        "object" : "beedata2",
+        "preview" : 0,
+        "totalObservations" : 248,
+        "variables" : 3
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,3 @@
+"0","#lets clip it to our study extent: "
+"0","future_crop<- crop (future_stack,  extent(-150, -50, 30, 70))"
+"0","plot (future_crop)"

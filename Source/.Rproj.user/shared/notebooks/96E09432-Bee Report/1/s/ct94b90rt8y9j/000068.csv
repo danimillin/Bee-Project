@@ -1,0 +1,2 @@
+"0","gam_pred<- predict (predictors_crop, m2)"
+"0","plot (gam_pred, col=rev(rainbow(50)), main=""GAM"") "
